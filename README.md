@@ -5,6 +5,6 @@
 
   • Well versed in many languages; PHP, Swift, Javascript, MySQL, Java and more!
   
-⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️
+<!-- ⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️ -->
 
 [LinkedIn](https://www.linkedin.com/in/pierce-goulimis) 
