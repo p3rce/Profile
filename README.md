@@ -5,6 +5,6 @@
 
   • Well versed in many languages; PHP, Swift, Javascript, MySQL, Java and more!
   
-<!-- ⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️ -->
+  • Outside of tech, I’m passionate about fitness, soccer, world politics, and cryptocurrency.
 
 [LinkedIn](https://www.linkedin.com/in/pierce-goulimis) 
