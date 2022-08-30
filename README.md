@@ -3,7 +3,7 @@
 ## I am:
   • An Honours Computer Science and Business Management Student at Wilfrid Laurier University
 
-  • Well versed in many languages; PHP, Swift, Javascript, MySQL, Java and more!
+  • Well versed in many languages: Java, C, Python, Swift, PHP, SQL, Javascript, and more!
   
   • Outside of tech, I’m passionate about fitness, soccer, world politics, and cryptocurrency.
 
