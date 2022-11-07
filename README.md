@@ -1,7 +1,7 @@
 # Hi 👋 Welcome To My GitHub Profile!
 
 ## I am:
-  • An Honours Computer Science and Business Management Student at Wilfrid Laurier University
+  • An Honours Computer Science Student at Wilfrid Laurier University
 
   • Well versed in many languages: Java, C, Python, Swift, PHP, SQL, Javascript, and more!
   
